@@ -1,5 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0)](https://github.com/sushantroybhatt17)
-
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://github.com/sushantroybhatt17)
 
 <h1 align="center">Hi 👋, I'm Sushant Bhatt</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer from India</h3>
@@ -11,13 +10,9 @@
 ---
 
 - 🔭 I’m currently working on **Edtech System**
-
 - 🌱 I’m currently learning **Tailwind CSS, JavaScript, MERN Stack**
-
 - 👯 I’m looking to collaborate on **E-commerce website projects**
-
 - 💬 Ask me about **React, Node.js, Express.js**
-
 - 📫 Reach me at **sushantkroy.dhn@gmail.com**
 
 ---
@@ -63,13 +58,25 @@
 
 ---
 
+---
+
+---
+
 <h2 align="center">✨ Fun and Interactive:</h2>
 <div align="center">
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;AI+Engineer+and+Open+Source+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
   </a>
   <br>
+
+  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=sushantbhatt17&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
   <br>
-  <img src="https://media.giphy.com/media/ZZjJdX6lxrf8trYd0s/giphy.gif" alt="AI Animation" width="400" />
-</div>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+
+
+
+---
+
