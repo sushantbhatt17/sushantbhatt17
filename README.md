@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Edtech System**
+- 🔭 I’m currently working on **StellariumAI - Image Generator**
 - 🌱 I’m currently learning **Tailwind CSS, JavaScript, MERN Stack**
 - 👯 I’m looking to collaborate on **E-commerce website projects**
 - 💬 Ask me about **React, Node.js, Express.js**
