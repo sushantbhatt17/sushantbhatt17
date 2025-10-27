@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Tailwind CSS, JavaScript, MERN Stack**
 - 👯 I’m looking to collaborate on **E-commerce website projects**
 - 💬 Ask me about **React, Node.js, Express.js**
-- 📫 Reach me at **sushantkroy.dhn@gmail.com**
+- 📫 Reach me at **sushantroybhatt17@gmail.com**
 
 ---
 
