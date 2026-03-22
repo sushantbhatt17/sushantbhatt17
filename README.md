@@ -25,7 +25,7 @@
   <a href="mailto:sushantkroy.dhn@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/sushantkroy/" target="_blank">
+  <a href="https://www.linkedin.com/in/sushant-bhatt-659293272/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
